@@ -1,7 +1,6 @@
 #pragma     once
 
 #include    <iostream>
-#include    <thread>
 #include    <chrono>
 
 #ifdef      _WIN32
