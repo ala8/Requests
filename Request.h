@@ -8,7 +8,6 @@
 #define     _WIN32_WINN 0x0A00
 #endif
 
-#define     Log(x) std::cout << x
 #define     ASIO_STANDALONE
 #include    <asio.hpp>
 #include    <asio/ts/buffer.hpp>
